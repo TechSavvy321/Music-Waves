@@ -1,0 +1,24 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+.headline{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 5rem;
+}
+
+.songslab {
+    display: flex;
+    text-align: center;
+    gap: 10px;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
