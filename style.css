@@ -15,9 +15,11 @@ h1{
     text-align: center;
 }
 
-img{
-    height: 200px;
-    width: 200px;
+.song{
+    padding: 10px;
 }
 
-
+img{
+    height: 200px;
+    width: 100%;
+}
