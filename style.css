@@ -11,7 +11,7 @@ h1{
 .songslab {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     text-align: center;
 }
 
@@ -19,4 +19,5 @@ img{
     height: 200px;
     width: 200px;
 }
+
 
